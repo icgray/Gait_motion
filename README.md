@@ -23,7 +23,10 @@ Laboratory measures of walking, including instrumented walkways, inertial sensor
 
 Spatiotemporal measures include measures of distance and time, specifically those associated with foot stepping patterns (e.g., step length, gait speed) and the time spent in the gait cycle (e.g., double limb stance, swing time). Spatiotemporal measures are often organized into gait domains to assist with selecting and interpreting gait metrics. These include the pace, rhythm, variability, postural control, phases, and asymmetry domains. 
 
-Commonly used spatiotemporal measures used to measure dual-task gait and associated domains include: ## potential for visualization here?
+Commonly used spatiotemporal measures used to measure dual-task gait and associated domains include: 
+
+https://editor.p5js.org/
+
 - Gait Speed (m/s): the speed of walking, pace domain
 - Step Length (m): The length from one heel strike the the next heel strike, pace domain
 - Step Time (s): the time it takes to move from one heel stride to the next heel strike, rhythm domain
