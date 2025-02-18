@@ -11,11 +11,25 @@ A simple measure for dual-task walking is the "Stops Walking While Talking" Test
 
 Using a stopwatch to measure changes in walking speed during single-task and dual-task walking is another way to measure overall change in walking with a dual-task. This can easily be performed by a clinician, using a defined walking length. 
 
-Laboratory measures of walking, including instrumented walkways, inertial sensors, and motion capture, can give further information about changes that occur from single-task to dual-task walking. These tools allow for the a deeper assessment of the quality of the movement by using defined spatiotemporal measures. 
+Laboratory measures of walking, including instrumented walkways, inertial sensors, and motion capture, can give further information about changes that occur from single-task to dual-task walking. These tools allow for a deeper assessment of the quality of the movement by using defined spatiotemporal measures. 
 
+Spatiotemporal measures include measures of distance and time, specifically those associated with foot stepping patterns (e.g., step length, gait speed) and the time spent in the gait cycle (e.g., double limb stance, swing time). Spatiotemporal measures are often organized into gait domains to assist with the selection and interpretation of gait metrics. These include the pace, rhythm, variability, postural control, phases, and asymmetry domains. 
+
+Commonly used spatiotemporal measures used to measure dual-task gait and associated domains include: ## potential for visualization here?
+- Gait Speed (m/s): the speed of walking, pace domain
+- Step Length (m): The length from one heel strike the the next heel strike, pace domain
+- Step Time (s): the time it takes to move from one heel stride to the next heel strike, rhythm domain
+- Step Width (m): the width between one foot to midline, postural control domain
+- Step Width Variability (SD, m): the standard deviation of step width demonstrating the fluctuation of variables, variability domain.
+
+Motion capture technology is commonly used to perform gait assessment in a laboratory setting. This allows for a comprehensive view of gait. Motion capture uses multiple infrared cameras and r to collect three-dimensional marker positions and represent the anatomical body and joint positions during dynamic movement, including walking. 
+
+Common marker placement:
+
+## to do:
 
 - add in picture of marker set up for mocap
-- add in drawing showing gait 2 min walk
+
 
 
 # Cognitive tasks for dual-task
