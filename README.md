@@ -1,5 +1,8 @@
 # Gait_motion
 
+#link to observable workbook- https://observablehq.com/d/2c2ebce96db13530
+- can use this gmail account as a login: mollygriespt@gmail.com / password: CSE4122025*
+
 # Dual-task walking
 When walking, people commonly perform multiple tasks at once. Walking is a complex and learned task. Single-task walking is when someone performs one task at a time (e.g., walking straight). Dual-task walking is walking while performing a cognitive task, like recalling names or counting, that is commonly performed during daily activities. Difficulty performing dual-task walking may lead to decreased mobility and an increased risk of falls, especially in older adults. A decline in mobility can lead to increased mortality and burden on society and caregivers. Dual-task walking can be easily observed and monitored during clinical and daily tasks to assess for changes in mobility. It is important for clinicians, specifically physicians, physical therapists, and occupational therapists, to understand the expected changes that occur during dual-task walking in healthy adults.
 
